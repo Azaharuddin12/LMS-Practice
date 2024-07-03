@@ -1,2 +1,0 @@
-# LMS-Practice
-thisisalogin application
